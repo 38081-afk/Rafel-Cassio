@@ -1,0 +1,8 @@
+escola\EscolaApplication.class
+escola\model\Sala.class
+escola\service\RecursoNaoEncontradoException.class
+escola\service\SalaService.class
+escola\service\ConflitoException.class
+escola\controller\SalaController.class
+escola\controller\GlobalExceptionHandler.class
+escola\repository\SalaRepository.class
